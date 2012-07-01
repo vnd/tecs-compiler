@@ -1,0 +1,4 @@
+Compiler for the Jack language from the TECS project (http://www1.idc.ac.il/tecs/) written in Perl a while ago.
+*.jack file name or directory with source files should be supplied as a command-line argument.
+
+The course itself (TECS) is awesome and highly recommended to anyone.
